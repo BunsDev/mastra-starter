@@ -158,10 +158,10 @@ ___
   </div>
   <div style="width: 75%; display: flex; justify-content: center; align-items: center; min-height: 120px; background-color: #000000; padding-left: 15px;">
     <ul style="list-style-type: none; padding-left: 0; width: 100%;">
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Community</a></strong> for Blockchain and AI enthusiasts</li>
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://blog.dedevs.club" style="color: #FFAEE0; text-decoration: none;">Learning Hub</a></strong> with tutorials, guides, and coding resources</li>
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://github.com/dedevsclub" style="color: #FFAEE0; text-decoration: none;">Build in Public</a></strong> with our developer community</li>
-      <li>• <strong style="color: #FFAEE0"><a href="https://whop.com/dedevs" style="color: #FFAEE0; text-decoration: none;">Join Us</a></strong> and be part of the movement</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Community</a></strong> for Blockchain and AI enthusiasts</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://blog.dedevs.club" style="color: #FFAEE0; text-decoration: none;">Learning Hub</a></strong> with tutorials, guides, and coding resources</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://github.com/dedevsclub" style="color: #FFAEE0; text-decoration: none;">Build in Public</a></strong> with our developer community</li>
+      <li><strong style="color: #FFAEE0"><a href="https://whop.com/dedevs" style="color: #FFAEE0; text-decoration: none;">Join Us</a></strong> and be part of the movement</li>
     </ul>
   </div>
 </div>
@@ -172,10 +172,10 @@ ___
   </div>
   <div style="width: 75%; display: flex; justify-content: center; align-items: center; min-height: 120px; background-color: #000000; padding-left: 15px;">
     <ul style="list-style-type: none; padding-left: 0; width: 100%;">
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Innovators</a></strong> collaborate on cutting-edge projects</li>
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Experts</a></strong> share valuable insights and resources</li>
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Newcomers</a></strong> grow through mentorship and hands-on experience</li>
-      <li>• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Communities</a></strong> form around shared technological interests</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Innovators</a></strong> collaborate on cutting-edge projects</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Experts</a></strong> share valuable insights and resources</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Newcomers</a></strong> grow through mentorship and hands-on experience</li>
+      <li><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Communities</a></strong> form around shared technological interests</li>
     </ul>
   </div>
 </div>
@@ -186,10 +186,10 @@ ___
   </div>
   <div style="width: 75%; display: flex; justify-content: center; align-items: center; min-height: 120px; background-color: #000000; padding-left: 15px;">
     <ul style="list-style-type: none; padding-left: 0; width: 100%;">
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Learning Resources</a></strong> for blockchain and AI development</li>
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Collaborative Projects</a></strong> to gain real-world experience</li>
-      <li style="margin-bottom: 8px;">• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Networking Events</a></strong> connecting developers with industry leaders</li>
-      <li>• <strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Technical Workshops</a></strong> on cutting-edge technologies</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Learning Resources</a></strong> for blockchain and AI development</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Collaborative Projects</a></strong> to gain real-world experience</li>
+      <li style="margin-bottom: 8px;"><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Networking Events</a></strong> connecting developers with industry leaders</li>
+      <li><strong style="color: #FFAEE0"><a href="https://dedevs.club" style="color: #FFAEE0; text-decoration: none;">Technical Workshops</a></strong> on cutting-edge technologies</li>
     </ul>
   </div>
 </div>
